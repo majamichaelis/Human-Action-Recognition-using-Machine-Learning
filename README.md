@@ -1,4 +1,5 @@
-# Human-Action-Recognition-using-Machine-Learning
+# k-nearest neighbor(k-NN)algorithm
+
 The k-nearest neighbor (k-NN) algorithm is a classification algorithm used in pattern recognition and machine learning. In this project, it is used to determine which motion form is used in a test data set. There are training data sets for running, sitting and jogging. A data set has X, Y and Z coordinates. The Root Mean Square (RMS) is calculated from each data set and a feature vector is created for each type of motion for training.
 
 
